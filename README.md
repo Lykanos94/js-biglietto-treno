@@ -11,4 +11,4 @@ js-biglietto-treno
 
 5. poi ho aggiunto due variabili fare dichiarare il cliente età e chilometri da percorrere
 
-
+6. aggiunto ultima varibile per chimata prezzo finale
