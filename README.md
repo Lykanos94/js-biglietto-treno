@@ -7,4 +7,8 @@ js-biglietto-treno
 
 3. ho messo una variabile let per calcolare il prezzo del biglietto al km per i chilometri dati dal cliente
 
-4. 
+4. applicato gli sconti facendo il calcolo delle percentuali
+
+5. poi ho aggiunto due variabili fare dichiarare il cliente età e chilometri da percorrere
+
+
